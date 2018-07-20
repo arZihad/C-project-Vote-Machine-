@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1513028126 source:h:\cse vm\cse vm\mainmenu.c
+	"header.h"
+
+1513030453 source:h:\cse vm\cse vm\admin.c
+	"header.h"
+
+1513030101 h:\cse vm\cse vm\header.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<dos.h>
+	<windows.h>
+	<time.h>
+
+1512968989 source:h:\cse vm\cse vm\voter.c
+	"header.h"
+
